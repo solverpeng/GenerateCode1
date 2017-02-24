@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.solverpeng.generate;
 
 import java.io.BufferedWriter;

@@ -21,7 +21,7 @@ import java.util.Properties;
  *      <p>可载入多个properties文件, 相同的属性在最后载入的文件中的值将会覆盖之前的值，但以System的Property优先</p>
  * </pre>
  */
-public abstract class PropertiesLoaderUtil {
+public class PropertiesLoaderUtil {
     private static Logger logger = LoggerFactory.getLogger(PropertiesLoaderUtil.class);
 
     private static ResourceLoader resourceLoader = new DefaultResourceLoader();

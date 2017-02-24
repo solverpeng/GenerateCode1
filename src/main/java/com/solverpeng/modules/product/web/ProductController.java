@@ -26,7 +26,7 @@ import com.solverpeng.modules.product.service.ProductService;
 /**
  * 产品Controller
  * @author solverpeng
- * @version 2017-02-23
+ * @version 2017-02-24
  */
 @Controller
 @RequestMapping(value = "${adminPath}/product/product")

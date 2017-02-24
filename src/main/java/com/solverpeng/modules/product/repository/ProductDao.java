@@ -15,7 +15,7 @@ import com.solverpeng.modules.product.entity.Product;
 /**
  * 产品DAO接口
  * @author solverpeng
- * @version 2017-02-23
+ * @version 2017-02-24
  */
 public interface ProductDao extends ProductDaoCustom, CrudRepository<Product, Long> {
 	@Modifying

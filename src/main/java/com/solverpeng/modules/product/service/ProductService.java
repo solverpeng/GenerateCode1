@@ -21,7 +21,7 @@ import com.solverpeng.modules.product.dao.ProductDao;
 /**
  * 产品Service
  * @author solverpeng
- * @version 2017-02-23
+ * @version 2017-02-24
  */
 @Component
 @Transactional(readOnly = true)
